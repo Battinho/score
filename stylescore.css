@@ -1,0 +1,18 @@
+body {
+    font-family: 'Myanmar Text', sans-serif;
+    color: white;
+    background-color: transparent; /* Fond transparent */
+}
+
+h1, h2, h3, h4, h5, h6, p, a, li, span, div {
+    color: white;
+    font-family: 'Myanmar Text', sans-serif;
+}
+
+a {
+    text-decoration: none; /* Retire le soulignement des liens */
+}
+
+a:hover {
+    text-decoration: underline; /* Soulignement des liens au survol */
+}
